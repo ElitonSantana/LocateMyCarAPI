@@ -88,6 +88,5 @@ Certifique-se de fornecer dados de entrada válidos para operações bem-sucedid
 ## Tecnologias
 - ASP.NET Core
 - Entity Framework Core
-- Newtonsoft.Json
-- Microsoft.Extensions.DependencyInjection
+- Sql Server
 - Swagger UI
